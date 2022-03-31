@@ -1,0 +1,25 @@
+html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #DADFE8;
+}
+tr{
+    color: #ffffff;
+    font-size: 20px;
+}
+th{
+    padding: 15px;
+}
+td{
+    padding: 15px;
+    background-color: #424250 ;
+}
+.moda{
+    background-color:#BB86FC ;
+}
+.casa{
+    background-color:#00C4B4 ;
+}
+
+    
